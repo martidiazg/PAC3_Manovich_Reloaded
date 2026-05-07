@@ -25,7 +25,7 @@ En aquest treball s’analitzen dos exemples recents d’hibridació cultural no
 
 Les eines d’intel·ligència artificial generativa, com Runway ML o Sora d’OpenAI, representen una de les transformacions més importants del cinema digital contemporani. Aquestes plataformes permeten generar vídeos i seqüències audiovisuals a partir d’instruccions textuals (*prompts*), convertint el procés cinematogràfic en una operació basada en dades, algoritmes i sistemes computacionals.
 
-![Runway ML](img/runway.jpg)
+![Runway ML](https://upload.wikimedia.org/wikipedia/commons/3/3f/Artificial_Intelligence_%26_AI_%26_Machine_Learning_-_30212411048.jpg)
 
 *Autor: Wikimedia Commons contributors*  
 *Font: Wikimedia Commons*  
@@ -53,7 +53,7 @@ https://www.youtube.com/watch?v=fmH5F4Zl0oQ
 
 Els concerts virtuals desenvolupats dins de plataformes com *Fortnite* constitueixen un exemple paradigmàtic d’hibridació cultural contemporània entre videojoc, música, xarxes socials i entorns immersius digitals. Aquestes experiències permeten que milions d’usuaris participin simultàniament en esdeveniments musicals dins d’espais virtuals generats en temps real mitjançant motors gràfics com Unreal Engine.
 
-![Concert Fortnite](img/fortnite.jpg)
+![Concert Fortnite](https://upload.wikimedia.org/wikipedia/commons/0/0e/FortniteBattleRoyale.jpg)
 
 *Autor: Epic Games*  
 *Font: Wikimedia Commons*  
